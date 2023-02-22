@@ -1,0 +1,7 @@
+Service\ServicePelicula.class
+Entity\Cine.class
+Entity\Espectador.class
+Service\ServiceEspectador.class
+Entity\Pelicula.class
+Service\ServiceCine.class
+egg\relacionesejer2extrajava\RelacionesEjer2ExtraJava.class
