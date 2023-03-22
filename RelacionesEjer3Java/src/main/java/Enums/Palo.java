@@ -29,7 +29,7 @@ public enum Palo {
     private String nombre;
 
     private Palo() {
-
+        
     }
 
     private Palo(String nombre) {

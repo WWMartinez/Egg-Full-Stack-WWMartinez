@@ -27,7 +27,7 @@ public class ServiceAlumno {
         this.leer = new Scanner(System.in).useDelimiter("\n");
     }
 
-    //Metodo para crear el alumno con sus datos de forma manuel
+    //Metodo para crear el alumno con sus datos de forma manual
     public void crearAlumnos() {
         
         System.out.println("Ingrese el nombre: ");
